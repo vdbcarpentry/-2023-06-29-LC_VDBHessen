@@ -289,6 +289,58 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+<p id="furtherInfo">
+  <strong>Further information</strong>:
+	
+Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others. Please transfer your participation fee to VDB Landesverband Hessen, Kreissparkasse Tübingen, IBAN: DE75 6415 0020 0002 9739 77, BIC: SOLADES1TUB. 
+
+</p>
+
+
+<p id="contact">
+  <strong>Registration/Contact</strong>: Please register via email until XX.XX.2023: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 25.
+  
+</p>
+<p id="organization">
+  <strong>Organization:</strong>
+  	The workshop is jointly organized by VDB-Landesverband Hessen, Universitäts- und Landesbibliothek Darmstadt, Universitätsbibliothek Frankfurt, and instructors and helpers from Universitätsbibliothek Augsburg, Universitätsbibliothek Regensburg, Deutsches Museum, ZB MED – Informationszentrum Lebenswissenschaften and Universitätsbibliothek Tübingen.
+</p>
+
+
+<hr/>
+<p>
+<a href="https://www.vdb-online.org"> 
+   <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
+ </a><br/>
+
+
+ <a href="https://www.deutsches-museum.de">
+   <img src="https://upload.wikimedia.org/wikipedia/de/8/86/Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="100"/>
+ </a>&nbsp;&nbsp;
+
+ 
+ <a href="https://www.uni-augsburg.de">
+   <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
+ </a>
+
+ 
+
+ 
+
+ <a href="https://www.ub.uni-frankfurt.de/">
+   <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
+ </a>
+ </p>
+
+<a href="https://uni-tuebingen.de/">
+   <img src="https://upload.wikimedia.org/wikipedia/de/9/9c/UniversitaetTuebingen_WortBildMarke.png" alt="Uni Tübingen" height="100"/>
+ </a>
+ 
+<a href="https://www.zbmed.de/">
+   <img src="https://www.zbmed.de/fileadmin/user_upload/Downloads/ZBMED17_d_rgb_web_cl.jpg" alt="ZBMed" height="100"/>
+ </a> 
+
 <hr/>
 
 {% comment%}
