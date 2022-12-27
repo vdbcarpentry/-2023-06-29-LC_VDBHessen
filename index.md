@@ -324,21 +324,21 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
 
    <a href="https://www.uni-augsburg.de">
    <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="80"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
  </a>
 
  <a href="https://www.deutsches-museum.de">
-   <img src="https://upload.wikimedia.org/wikipedia/de/8/86/Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="80"/>
+   <img src="https://upload.wikimedia.org/wikipedia/de/8/86/Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="100"/>
  </a>&nbsp;&nbsp;
 
  
 <a href="https://uni-tuebingen.de/">
-   <img src="https://upload.wikimedia.org/wikipedia/de/9/9c/UniversitaetTuebingen_WortBildMarke.png" alt="Uni Tübingen" height="80"/>
+   <img src="https://upload.wikimedia.org/wikipedia/de/9/9c/UniversitaetTuebingen_WortBildMarke.png" alt="Uni Tübingen" height="100"/>
  </a>&nbsp;&nbsp;&nbsp;
 
  
 <a href="https://www.zbmed.de/">
-   <img src="https://www.zbmed.de/fileadmin/user_upload/Downloads/ZBMED17_d_rgb_web_cl.jpg" alt="ZBMed" height="80"/>
+   <img src="https://www.zbmed.de/fileadmin/user_upload/Downloads/ZBMED17_d_rgb_web_cl.jpg" alt="ZBMed" height="100"/>
  </a> 
 </p>
 <hr/>
