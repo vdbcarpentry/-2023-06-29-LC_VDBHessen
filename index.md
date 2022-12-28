@@ -356,7 +356,7 @@ Everyone who participates in Carpentries activities is required to conform to th
   <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
     <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
   </a>
-</p></center>
+</p>
 <hr/>
 
 
