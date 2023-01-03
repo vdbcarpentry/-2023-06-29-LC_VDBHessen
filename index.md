@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Library Carpentry, VDB LV Hessen (Workshops are in German)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "ULB Darmstadt, Magdalenenstraße 8, 64289 Darmstadt"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "ULB Darmstadt, Vortragssaal UG, Magdalenenstraße 8, 64289 Darmstadt"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "49.876770"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -277,7 +277,7 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
 
 
 <p id="contact">
-  <strong>Registration/Contact</strong>: Please register via email until XX.XX.2023: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 25.
+  <strong>Registration/Contact</strong>: Please register via email until 31.05.2023: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 25.
   
 </p>
 <p id="organization">
@@ -293,9 +293,9 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
  </a><br/>
 
   
-   <a href="https://www.tu-darmstadt.de/">
-   <img src="https://upload.wikimedia.org/wikipedia/de/2/24/TU_Darmstadt_Logo.svg" alt="TU Darmstadt" height="100"/>
- </a>
+   <a href="https://www.ulb.tu-darmstadt.de">
+   <img src="https://www.ulb.tu-darmstadt.de/media/ulb/logos_ulb/ulb_logo_schriftzug_tuerkis_rgb.jpg" alt="ULB Darmstadt" height="100"/>
+ </a>&nbsp;&nbsp;
   
    <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
